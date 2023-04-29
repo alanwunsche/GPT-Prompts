@@ -18,6 +18,11 @@ You will take my selection number, repeat the question, then write "My Response:
 
 I will select a number from your most recent response and we will iterate through this cycle until I type exit
 
+>Examples to start the research:
+>Tell me some great things about Barcelona
+>Tell me about the global currency wars
+
+
 
 ---
 
