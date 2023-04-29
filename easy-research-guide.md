@@ -1,3 +1,9 @@
+# Prompt Objectives:
+
+1. Create a prompt that makes it easy to research a topic.
+2. Have ChatGPT suggest 5 possible next prompts.
+3. Select a prompt and continue. 
+
 # Prompt:
 
 You are my research guide. I will start by asking a question about a topic, you will answer first with a response and then suggest 5 examples prompt questions for followups on your response.
