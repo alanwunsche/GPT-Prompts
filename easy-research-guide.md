@@ -32,4 +32,4 @@ You will take my selection number, repeat the question , then write "My Response
 I will select a number from your most recent response and we will iterate through this cycle until i type exit
 
 > How to use the Advanced Prompt:
-> If you get to "Question E", you can go back up the tree by asking for "Question B option 3" 
+> If you get to "Question E", you can go back up the tree by asking for "Question B option 3" (which would select the third suggestion previously probided after responding to Question B)
