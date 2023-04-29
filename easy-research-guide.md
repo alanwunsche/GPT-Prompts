@@ -1,8 +1,10 @@
 # Prompt Objectives:
 
-1. Create a prompt that makes it easy to research a topic.
-2. Have ChatGPT suggest 5 possible next prompts.
-3. Select a prompt and continue. 
+1. Create a prompt that sets up an iterative process to research a topic.
+2. ChatGPT will provide an initial answer to a research question.
+3. After its response, ChatGPT will suggest 5 possible next prompts.
+4. Research User selects one of the suggested prompt questions and submits to ChatGPT to begin the process at Step 2 again.
+5. Responding with 'exit' will terminate the session. 
 
 Create a Basic version and an Advanced version of the prompt.
 
