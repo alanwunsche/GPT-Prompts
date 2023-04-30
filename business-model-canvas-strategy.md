@@ -31,3 +31,4 @@ Once I type exit, you will summarize the content for your responses in our chat 
 let me know that you’re ready for the first question
 
 ## Notes
+1. Replace the industry in the first line with your industry.
